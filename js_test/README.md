@@ -2,7 +2,7 @@
 
 ## Complete all questions to the best of your abilities. You can use google, but you cannot ask other students or teachers for help. Also, do not copy code. 
 
-### Work on the index.js file provided in the folder. 
+### Create an index.js file and work from there. 
 
 1. Write a program to display the city name if the string begins with "Los" or "New" otherwise return "The city name does not begin with Los or New". 
 
