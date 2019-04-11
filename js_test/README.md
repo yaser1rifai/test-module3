@@ -33,18 +33,18 @@
 * 146 ➞ "146 is even"
 * 19 ➞ "19 is odd"
 
-7. You are given 2 out of 3 of the angles of a triangle, in degrees e.g. 29 and 59. Write a program that classifies the missing angle (the third angle of a triangle) as either "acute", "right", or "obtuse" based on its degrees.
+7. You are given 2 out of 3 angles of a triangle, in degrees e.g. 29° and 59°. Write a program that classifies the missing angle (the third angle of a triangle) as either "acute", "right", or "obtuse" based on its degrees.
 
 * **Notes**
-* An acute angle is one smaller than 90 degrees.
-* A right angle is one that is exactly 90 degrees.
-* An obtuse angle is one greater than 90 degrees (but smaller than 180 degrees).
-* For example: 11, 20 should return "obtuse", since the missing angle would be 149 degrees, which makes it obtuse.
+* An acute angle is smaller than 90°.
+* A right angle is exactly 90°.
+* An obtuse angle is greater than 90°  (but smaller than 180°).
+* For example: 11°, 20° should return "obtuse", since the missing angle would be 149°, which makes it obtuse.
 
 * **Examples**
-* 27, 59 (29 + 59 = 88), (180 - 88 = 92) ➞ Then the third angle is 92degrees so it is "obtuse" 
-* 135, 11 ➞ The third angle is "acute"
-* 45, 45 ➞ The third angle is a "right angle"
+* 27°, 59° ➞ Then the third angle is 92° so it is "obtuse"
+* 135°, 11° ➞ The third angle is "acute"
+* 45°, 45° ➞ The third angle is a "right angle"
 
 8. Make a variable with the string value of "maria jane jones". Convert each first letter to uppercase. Make sure your code works for any three names e.g. "john james smith". 
 
@@ -54,7 +54,7 @@
 * "One more example for good measure" ➞ 6
 * "JavaScript is fun, right?" ➞ 4
 
-10. Write a program to multiply all values in an array by the amount of values in that array.
+10. Write a program to multiply each value in an array by the number of items in that array.
 * **Examples**
 * [2, 3, 1, 0] (2 * 4), (3 * 4), (1 * 4), (0 * 4) ➞ [8, 12, 4, 0] 
 * [4, 1, 1] ➞ [12, 3, 3]
