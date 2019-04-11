@@ -2,7 +2,7 @@
 
 ## Complete all questions to the best of your abilities. You can use google, but you cannot ask other students or teachers for help. Also, do not copy code. 
 
-### Create an index.js file and work from there. 
+### Create an index.js file and work from there. Please do not forget to comment in the question number above your answers.
 
 1. Write a program to display the city name if the string begins with "Los" or "New" otherwise return "The city name does not begin with Los or New". 
 
@@ -21,7 +21,7 @@
 * 1000 ➞ true
 * 100 ➞ true
 
-5. Write a program that adds a string ending to each member in an array.
+5. Write a program that adds a string ending to each item in an array.
 * **Examples & Expected output**
 * ["clever", "meek", "hurried", "nice"], "ly" ➞ ["cleverly", "meekly", "hurriedly", "nicely"]
 * ["new", "pander", "scoop"], "er" ➞ ["newer", "panderer", "scooper"]
